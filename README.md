@@ -1,5 +1,5 @@
 # Project Name
-> ## Build A Regression Model Using Regularisation 
+> ## Build A Regression Model Using Regularization 
 
 
 ## Table of Contents
